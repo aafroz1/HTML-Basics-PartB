@@ -1,2 +1,3 @@
 # HTML-Basics-PartB
-https://github.com/aafroz1/HTML-Basics-PartB.git
+https://aafroz1.github.io/HTML-Basics-PartB/
+
